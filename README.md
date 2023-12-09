@@ -1,3 +1,3 @@
-# Project Prodigy
+#MapUp Frontend Engineer
 
-This Repository comtains all the questiosn and assignments/codes for my Youtube Channel: @ProjectProdigy2001
+This Repository contains all the questiosn and assignments/codes for my assignment.
